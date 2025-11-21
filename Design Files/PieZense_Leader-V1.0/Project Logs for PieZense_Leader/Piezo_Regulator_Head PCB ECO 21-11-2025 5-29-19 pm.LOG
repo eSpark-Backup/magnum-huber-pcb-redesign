@@ -1,0 +1,102 @@
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found 2P THrough Hole Pads
+Added Component: Designator=U1(NORA-B120-00B)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-175595538.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-175595538.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-166811452.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-166811452.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-166532002.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/NORA-B120-00B-u-blox-datasheet-166532002.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "14.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NORA-B120-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=11.22667, 1000=11.00654, 2000=10.85052, 4000=10.69886, 8000=10.525 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NORA-B120-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin NTC1-1
+Add Pin To Net: Unknown Pin: Pin NTC1-2
+Added Pin To Net: NetName=GND Pin=U1-A1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-A3
+Added Pin To Net: NetName=3V3 Pin=U1-A7
+Added Pin To Net: NetName=3V3 Pin=U1-A8
+Added Pin To Net: NetName=GND Pin=U1-A9
+Added Pin To Net: NetName=GND Pin=U1-B2
+Added Pin To Net: NetName=NetR12_1 Pin=U1-B4
+Added Pin To Net: NetName=3V3 Pin=U1-B7
+Added Pin To Net: NetName=GND Pin=U1-B8
+Added Pin To Net: NetName=LED_DO Pin=U1-C8
+Added Pin To Net: NetName=USB_DP Pin=U1-C9
+Added Pin To Net: NetName=NetR17_2 Pin=U1-D1
+Added Pin To Net: NetName=NetR5_2 Pin=U1-D2
+Added Pin To Net: NetName=NetR18_1 Pin=U1-D7
+Added Pin To Net: NetName=USB_DM Pin=U1-D9
+Added Pin To Net: NetName=NetR16_2 Pin=U1-E2
+Added Pin To Net: NetName=GND Pin=U1-E4
+Added Pin To Net: NetName=GND Pin=U1-E5
+Added Pin To Net: NetName=NetP1_7 Pin=U1-E8
+Added Pin To Net: NetName=NetP1_8 Pin=U1-E9
+Added Pin To Net: NetName=GND Pin=U1-F4
+Added Pin To Net: NetName=GND Pin=U1-F5
+Added Pin To Net: NetName=NetP1_5 Pin=U1-F8
+Added Pin To Net: NetName=NetP1_6 Pin=U1-F9
+Added Pin To Net: NetName=BAT.MEASURE Pin=U1-G2
+Added Pin To Net: NetName=NetP1_3 Pin=U1-G8
+Added Pin To Net: NetName=NetP1_4 Pin=U1-G9
+Added Pin To Net: NetName=SWDIO Pin=U1-H2
+Added Pin To Net: NetName=NetR19_1 Pin=U1-H7
+Added Pin To Net: NetName=SWCLK Pin=U1-J2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=U1-J3
+Added Pin To Net: NetName=NetR50_1 Pin=U1-J9
+Added Pin To Net: NetName=GND Pin=U1-K2
+Added Pin To Net: NetName=GND Pin=U1-K3
+Added Pin To Net: NetName=GND Pin=U1-K5
+Added Pin To Net: NetName=GND Pin=U1-K7
+Added Pin To Net: NetName=GND Pin=U1-K8
+Added Pin To Net: NetName=GND Pin=U1-L1
+Added Pin To Net: NetName=GND Pin=U1-L9
+Added Pin To Net: NetName=GND Pin=U1-M1
+Added Pin To Net: NetName=GND Pin=U1-M2
+Added Pin To Net: NetName=GND Pin=U1-M8
+Added Pin To Net: NetName=GND Pin=U1-M9
+Add Net: Net with name "ALERT" already exists
+Add Net: Net with name "CFG1" already exists
+Add Net: Net with name "CFG2" already exists
+Add Net: Net with name "CFG3" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SDA" already exists
+Add Net: Net with name "USB_DM" already exists
+Add Net: Net with name "USB_DP" already exists
+Add Differential Pair: Number of nets in differential pair D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair D- is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP is 1 instead of 2
+Add Class Member: Failed to add class member : Component J3 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J4 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J5 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J6 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component L1 3.3uH
+Add Class Member: Failed to add class member : Component NTC1 2P THrough Hole Pads
+Added Member To Class: ClassName=Piezo_Regulator_Head_MCU Member=Component U1 NORA-B120-00B
+Added Member To Class: ClassName=Piezo_Regulator_Head_Power Member=Component U2 TPS561208DDCT

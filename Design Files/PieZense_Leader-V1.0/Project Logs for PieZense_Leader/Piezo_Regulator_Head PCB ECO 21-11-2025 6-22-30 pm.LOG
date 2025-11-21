@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found 2P THrough Hole Pads
+Added Pin To Net: NetName=ALERT Pin=C22-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin NTC1-1
+Add Pin To Net: Unknown Pin: Pin NTC1-2
+Added Pin To Net: NetName=ALERT Pin=R30-2
+Added Pin To Net: NetName=SCL Pin=R31-1
+Added Pin To Net: NetName=SDA Pin=R32-1
+Added Pin To Net: NetName=SDA Pin=U7-4
+Added Pin To Net: NetName=SCL Pin=U7-5
+Added Pin To Net: NetName=ALERT Pin=U7-20
+Add Net: Net with name "USB_DM" already exists
+Add Net: Net with name "USB_DP" already exists
+Add Differential Pair: Number of nets in differential pair D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair D- is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP is 1 instead of 2
+Add Class Member: Failed to add class member : Component J3 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J4 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J5 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J6 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component L1 3.3uH
+Add Class Member: Failed to add class member : Component NTC1 2P THrough Hole Pads
