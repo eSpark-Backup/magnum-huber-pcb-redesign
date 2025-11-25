@@ -1,0 +1,14 @@
+Added Component: Designator=NTC1(2.54-2P ZZDK)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Connector_SHOU-HAN-2-54-2P-ZZDK_C18185649.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Wire To Board Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C18185649"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2.54-2P ZZDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=2.5mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=TS1 Pin=NTC1-1
+Added Pin To Net: NetName=GND Pin=NTC1-2
+Add Class Member: Failed to add class member : Component L1 3.3uH
+Added Member To Class: ClassName=Piezo_Regulator_Head_Power Member=Component NTC1 2.54-2P ZZDK

@@ -1,0 +1,75 @@
+Added Component: Designator=C18(ESL106M050AC3AA)
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-182055926.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-182055926.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-175508936.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-175508936.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-182427411.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/ESL106M050AC3AA-KEMET-datasheet-182427411.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "1.35O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C1019597"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "5µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESL106M050AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.18, 10=0.108, 50=0.0778, 100=0.068, 500=0.05104, 1000=0.04566, 2500=0.03989, 5000=0.03637 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "92.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "50489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TC2030-MCP-NL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/TC2030-MCP-NL-Tag-Connect-datasheet-181254555.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/TC2030-MCP-NL-Tag-Connect-datasheet-181254555.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/TC2030-MCP-NL-Tag-Connect-datasheet-17049191.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/TC2030-MCP-NL-Tag-Connect-datasheet-17049191.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Cables and Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-MCP-NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=36 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TC2030-MCP-NLTC-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found Through Hole Pad (High Power)_
+Add Component: Footprint Not Found 2P THrough Hole Pads
+Added Pin To Net: NetName=20V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin NTC1-1
+Add Pin To Net: Unknown Pin: Pin NTC1-2
+Added Member To Class: ClassName=Piezo_Regulator_Head_Power Member=Component C18 10uF
+Added Member To Class: ClassName=Piezo_Regulator_Head_MCU Member=Component J1 TC2030-MCP-NL
+Add Class Member: Failed to add class member : Component J3 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J4 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J5 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component J6 Through_Hole_Pad
+Add Class Member: Failed to add class member : Component L1 3.3uH
+Add Class Member: Failed to add class member : Component NTC1 2P THrough Hole Pads
