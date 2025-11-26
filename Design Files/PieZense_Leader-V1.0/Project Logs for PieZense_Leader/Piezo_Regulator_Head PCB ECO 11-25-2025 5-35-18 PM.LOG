@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=20V Pin=C18-1
+Removed Pin From Net: NetName=20V Pin=U3-3
+Added Pin To Net: NetName=VDD_20V Pin=C18-1
+Added Pin To Net: NetName=VDD_20V Pin=U3-3

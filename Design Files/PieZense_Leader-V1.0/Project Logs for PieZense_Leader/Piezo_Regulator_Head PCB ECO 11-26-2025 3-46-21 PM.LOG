@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SCL Pin=R18-2
+Removed Pin From Net: NetName=SDA Pin=R19-2
+Removed Pin From Net: NetName=ALERT Pin=R50-2
+Removed Member From Class: ClassName=Piezo_Regulator_Head_MCU Member=R18
+Removed Member From Class: ClassName=Piezo_Regulator_Head_MCU Member=R19
+Removed Member From Class: ClassName=Piezo_Regulator_Head_MCU Member=R50
+Added Pin To Net: NetName=SCL Pin=U1-D7
+Added Pin To Net: NetName=SDA Pin=U1-H7
+Added Pin To Net: NetName=ALERT Pin=U1-J9

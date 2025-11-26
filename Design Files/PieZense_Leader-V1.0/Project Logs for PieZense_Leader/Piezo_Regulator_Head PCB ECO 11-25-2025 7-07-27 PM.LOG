@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD_20V Pin=C18-1
+Removed Pin From Net: NetName=VDD_20V Pin=R53-1
+Removed Pin From Net: NetName=VDD_20V Pin=U3-3
+Change Component Footprint: Designator=NTC1 Old Footprint=2.54-2P ZZDK New Footprint=WAFER-PH2.0-2PWB
+Change Component Comment : Designator=NTC1 Old Comment=2.54-2P ZZDK New Comment=WAFER-PH2.0-2PWB
+Change component parameters: Designator = "NTC1" ("NTC1"); Footprint = "2.54-2P ZZDK"; UniqueID = "\TODKIGZV" ("\TODKIGZV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XUNPU-WAFER-PH2-0-2PWB_C3029440.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Right Angle JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C3029440"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "WAFER-PH2.0-2PWB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,P=2mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20V Pin=C18-1
+Added Pin To Net: NetName=VBUS_20V Pin=R53-1
+Added Pin To Net: NetName=20V Pin=U3-3
