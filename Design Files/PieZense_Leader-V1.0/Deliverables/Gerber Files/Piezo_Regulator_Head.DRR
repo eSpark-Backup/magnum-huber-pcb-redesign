@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Piezo_Regulator_Head.PcbDoc   11/29/2025  3:11:27 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Piezo_Regulator_Head-RoundHoles.TXT
+ASCII SlotHoles File : Piezo_Regulator_Head-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             213       PTH        532.51mm (20.97inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.16mm (1.50inch)
+T3      0.9mm (35mil)                                             Round             10        PTH        22.86mm (0.90inch)
+T4      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T5      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T6      0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              235
+
+Total Processing Time (hh:mm:ss) : 00:00:01

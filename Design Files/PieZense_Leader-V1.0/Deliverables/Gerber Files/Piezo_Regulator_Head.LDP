@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\aSim Data\GitHub\MagnumHuber-PCB-Redesign\Design Files\PieZense_Leader-V1.0\Piezo_Regulator_Head.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=piezo_regulator_head-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=piezo_regulator_head-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
