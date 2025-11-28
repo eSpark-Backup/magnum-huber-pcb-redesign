@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BATT_P Pin=NT4-2
+Removed Member From Class: ClassName=Piezo_Regulator_Head_Power Member=NT3
+Removed Member From Class: ClassName=Piezo_Regulator_Head_Power Member=NT4
+Added Pin To Net: NetName=BATT_P Pin=C5-1
+Added Pin To Net: NetName=BATT_P Pin=C37-1
+Added Pin To Net: NetName=BATT_P Pin=D5-3
+Added Pin To Net: NetName=BATT_P Pin=D6-3
+Added Pin To Net: NetName=BATT_P Pin=J3-1
+Added Pin To Net: NetName=BATT_P Pin=R53-1
+Added Pin To Net: NetName=BATT_P Pin=SW1-2
+Added Pin To Net: NetName=BATT_P Pin=U2-3
+Added Member To Class: ClassName=Piezo_Regulator_Head_Power Member=Component D5 SB10100L
+Added Rule: Name=Schematic Supply Nets_7

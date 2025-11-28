@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TWI0.SDA Pin=TVS1-1
+Removed Pin From Net: NetName=TWI0.SCL Pin=TVS1-2
+Added Pin To Net: NetName=TWI0.SCL Pin=TVS1-1
+Added Pin To Net: NetName=TWI0.SDA Pin=TVS1-2
